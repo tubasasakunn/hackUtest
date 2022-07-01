@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hackUtest/static/css/main.360da29d.css",
-    "main.js": "/hackUtest/static/js/main.221bf915.js",
+    "main.js": "/hackUtest/static/js/main.8af8c613.js",
     "static/js/787.8ae0d0c6.chunk.js": "/hackUtest/static/js/787.8ae0d0c6.chunk.js",
     "static/media/logo.png": "/hackUtest/static/media/logo.a12ae4d2c13286a163dc.png",
     "index.html": "/hackUtest/index.html",
     "main.360da29d.css.map": "/hackUtest/static/css/main.360da29d.css.map",
-    "main.221bf915.js.map": "/hackUtest/static/js/main.221bf915.js.map",
+    "main.8af8c613.js.map": "/hackUtest/static/js/main.8af8c613.js.map",
     "787.8ae0d0c6.chunk.js.map": "/hackUtest/static/js/787.8ae0d0c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360da29d.css",
-    "static/js/main.221bf915.js"
+    "static/js/main.8af8c613.js"
   ]
 }

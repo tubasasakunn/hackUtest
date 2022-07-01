@@ -14,9 +14,10 @@ import "./css/index.css";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div>
-          <Routes basename={process.env.PUBLIC_URL}>
+          <Routes>
+
             <Route path="/" element={<Top />} />
             <Route path="/articles/:id" element={<ArticleDetail />} />
             <Route path="/addArticle" element={<AddArticle />} />
