@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Router>
         <div>
-          <Routes>
+          <Routes basename={process.env.PUBLIC_URL}>
             <Route path="/" element={<Top />} />
             <Route path="/articles/:id" element={<ArticleDetail />} />
             <Route path="/addArticle" element={<AddArticle />} />
